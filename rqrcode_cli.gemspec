@@ -4,7 +4,7 @@ require_relative "lib/rqrcode_cli/version"
 
 Gem::Specification.new do |spec|
   spec.name = "rqrcode_cli"
-  spec.version = RqrcodeCli::VERSION
+  spec.version = RQRCodeCLI::VERSION
   spec.authors = ["Michael Zhan"]
   spec.email = ["michaelzhan2001@gmail.com"]
 

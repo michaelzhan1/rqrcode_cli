@@ -2,7 +2,7 @@
 
 require_relative "rqrcode_cli/version"
 
-module RqrcodeCli
+module RQRCodeCLI
   class Error < StandardError; end
   # Your code goes here...
 end

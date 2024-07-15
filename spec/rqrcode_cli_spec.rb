@@ -1,11 +1,7 @@
 # frozen_string_literal: true
 
-RSpec.describe RqrcodeCli do
+RSpec.describe RQRCodeCLI do
   it "has a version number" do
-    expect(RqrcodeCli::VERSION).not_to be nil
-  end
-
-  it "does something useful" do
-    expect(false).to eq(true)
+    expect(RQRCodeCLI::VERSION).not_to be nil
   end
 end
